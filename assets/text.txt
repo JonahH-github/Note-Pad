@@ -1,0 +1,24 @@
+move the cursor using the up, down, left & right keys
+
+     scroll : pan up & down
+ctrl+scroll : pan left & right
+ctrl+c      : copy current line to system clipboard
+ctrl+v      : paste from system clipboard
+
+these can be disabled if you want in the styles.json file in the assets folder
+(you can change the font size & spacing, changing the spacing is not advised though)
+"italic"
+^bold^
+*bold & italic*
+-strike through-
+_underline_
+
+these can be changed with the styles.json file
+(you can even add your own)
+#1 red
+#2 orange
+#3 yellow
+#4 blue
+#5 green
+#6 purple
+#/ dark

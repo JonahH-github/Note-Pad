@@ -1,0 +1,43 @@
+{
+    "settings":
+    {
+        "enableBold": true,
+        "enableItalic": true,
+        "enableBoldItalic": true,
+        "enableSrikeThrough": true,
+        "enableUnderline": true,
+
+        "fontSize": 16,
+        "fontSpacing": 0
+    },
+    "customStyles": [
+        {
+            "signal": "#1",
+            "color": "#f92672"
+        },
+        {
+            "signal": "#2",
+            "color": "#fd971f"
+        },
+        {
+            "signal": "#3",
+            "color": "#e6db74"
+        },
+        {
+            "signal": "#4",
+            "color": "#66d9ef"
+        },
+        {
+            "signal": "#5",
+            "color": "#a6e22e"
+        },
+        {
+            "signal": "#6",
+            "color": "#ae81ff"
+        },
+        {
+            "signal": "#/",
+            "color": "#323232"
+        }
+    ]
+}
